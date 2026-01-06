@@ -1,0 +1,34 @@
+{
+    "errorMessage": {
+        "status": 200,
+        "code": "INFO-000",
+        "message": "정상 처리되었습니다.",
+        "link": "",
+        "developerMessage": "",
+        "total": 74
+    },
+    "realtimePositionList": [
+        {
+            "beginRow": null,
+            "endRow": null,
+            "curPage": null,
+            "pageRow": null,
+            "totalCount": 74,
+            "rowNum": 1,
+            "selectedCount": 1,
+            "subwayId": "1001",
+            "subwayNm": "1호선",
+            "statnId": "1001000125",
+            "statnNm": "제기동",
+            "trainNo": "0098",
+            "lastRecptnDt": "20260106",
+            "recptnDt": "2026-01-06 14:37:48",
+            "updnLine": "0",
+            "statnTid": "1001000110",
+            "statnTnm": "의정부",
+            "trainSttus": "2",
+            "directAt": "0",
+            "lstcarAt": "0"
+        }
+    ]
+}
